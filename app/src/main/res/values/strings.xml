@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentData2</string>
+    <string name="hello">
+        <!-- Hello World! -->
+
+        <!--This is demonstration of use of <b>OutputConfiguration</b> class swallowing exceptions
+        in createFromParcel in order to inject code into system Settings application
+
+        \n\nAfter pressing button below a Notification with result of id command should appear-->
+    </string>
+    <string name="go">Go</string>
+</resources>

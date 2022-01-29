@@ -1,0 +1,2 @@
+rootProject.name = "IntentData2"
+include ':app'
